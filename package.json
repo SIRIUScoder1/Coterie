@@ -24,13 +24,16 @@
     "@babel/preset-react": "^7.12.13",
     "babel-loader": "^8.2.2",
     "babel-plugin-transform-class-properties": "^6.24.1",
-    "webpack": "^5.25.0",
+    "sass": "^1.32.8",
+    "sass-loader": "^11.0.1",
+    "webpack": "^5.31.2",
     "webpack-cli": "^4.5.0"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
     "fontsource-roboto": "^4.0.0",
+    "node-sass": "^5.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
